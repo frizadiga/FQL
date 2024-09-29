@@ -1,2 +1,3 @@
-# fql
-file query language
+# FQL
+
+File Query Language
